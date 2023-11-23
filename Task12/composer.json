@@ -1,0 +1,15 @@
+{
+    "name": "nmypgpsb/task12",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task12\\": "src/"
+        },
+        "files": [
+            "src/Segment.php",
+            "src/Point.php",
+            "src/SegmentFunctions.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

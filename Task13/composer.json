@@ -1,0 +1,13 @@
+{
+    "name": "nmypgpsb/task13",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task13\\": "src/"
+        },
+        "files": [
+            "src/Rational.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

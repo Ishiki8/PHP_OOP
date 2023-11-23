@@ -1,0 +1,16 @@
+{
+    "name": "nmypgpsb/task20",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task20\\": "src/"
+        },
+        "files": [
+            "src/ComparatableInterface.php",
+            "src/User.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}

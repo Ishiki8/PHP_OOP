@@ -1,0 +1,14 @@
+{
+    "name": "nmypgpsb/task9",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task9\\": "src/"
+        },
+        "files": [
+            "src/Point.php",
+            "src/PointFunctions.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
