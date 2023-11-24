@@ -1,0 +1,17 @@
+{
+    "name": "nmypgpsb/task44",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task44\\": "src/"
+        },
+        "files": [
+            "src/strategies/Easy.php",
+            "src/strategies/Normal.php",
+            "src/TicTacToe.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}
