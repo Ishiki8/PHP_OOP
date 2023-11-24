@@ -1,0 +1,15 @@
+{
+    "name": "nmypgpsb/task21",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task21\\": "src/"
+        },
+        "files": [
+            "src/Safe.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}

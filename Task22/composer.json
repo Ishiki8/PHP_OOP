@@ -1,0 +1,16 @@
+{
+    "name": "nmypgpsb/task22",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task22\\": "src/"
+        },
+        "files": [
+            "src/Square.php",
+            "src/SquaresGenerator.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}

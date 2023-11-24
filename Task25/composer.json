@@ -1,0 +1,15 @@
+{
+    "name": "nmypgpsb/task25",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task25\\": "src/"
+        },
+        "files": [
+            "src/Truncater.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
