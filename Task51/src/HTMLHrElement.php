@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Task51;
 
 class HTMLHrElement extends HTMLElement {
     public function __toString() {

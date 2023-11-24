@@ -2,7 +2,7 @@
     "name": "nmypgpsb/task51",
     "autoload": {
         "psr-4": {
-            "Nmypgpsb\\Task51\\": "src/"
+            "App\\Task51\\": "src/"
         },
         "files": [
             "src/HTMLElement.php",

@@ -2,7 +2,7 @@
 
 namespace App\Tests;
 
-use App\HTMLHrElement;
+use App\Task51\HTMLHrElement;
 use PHPUnit\Framework\TestCase;
 
 class HTMLHrElementTest extends TestCase

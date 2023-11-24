@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Task54;
 
 class HTMLPairElement extends HTMLElement {
     public function __toString(): string {

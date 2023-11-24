@@ -2,7 +2,7 @@
 
 namespace App\Tests;
 
-use App\HTMLDivElement;
+use App\Task54\HTMLDivElement;
 use PHPUnit\Framework\TestCase;
 
 class HTMLDivElementTest extends TestCase
