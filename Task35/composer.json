@@ -1,0 +1,16 @@
+{
+    "name": "nmypgpsb/task35",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task35\\": "src/"
+        },
+        "files": [
+            "src/ObjInterface.php",
+            "src/Obj.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}

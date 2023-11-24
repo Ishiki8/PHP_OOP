@@ -1,0 +1,19 @@
+{
+    "name": "nmypgpsb/task34",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task34\\": "src/"
+        },
+        "files": [
+            "src/Dates.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    },
+    "require": {
+        "nesbot/carbon": "^2.0@dev",
+        "tightenco/collect": "dev-laravel-9-ongoing"
+    }
+}

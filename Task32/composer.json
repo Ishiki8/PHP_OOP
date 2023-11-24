@@ -1,0 +1,18 @@
+{
+    "name": "nmypgpsb/task32",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task32\\": "src/"
+        },
+        "files": [
+            "src/Booking.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    },
+    "require": {
+        "nesbot/carbon": "^2.0@dev"
+    }
+}

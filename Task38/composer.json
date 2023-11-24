@@ -1,0 +1,18 @@
+{
+    "name": "nmypgpsb/task38",
+    "autoload": {
+        "psr-4": {
+            "Nmypgpsb\\Task38\\": "src/"
+        },
+        "files": [
+            "src/HTML.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    },
+    "require": {
+        "tightenco/collect": "dev-laravel-9-ongoing"
+    }
+}
